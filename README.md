@@ -4,13 +4,9 @@ Ports of examples from a Nicolas P. Rougier's [Matplotlib tutorial](http://www.l
 
 # Tutorials
 
-<table>
-  <tbody>
-    <tr>
-      <td><a href="notebooks/01-Simple_Plot.ipynb">Simple Plot</a></td>
-      <td><img alt="Simple Plot Image" src="images/01-Simple_Plot.png" height="200"></td>
-    </tr>
-  </tbody>
-</table>
-
+| Tutorial | |
+| --- | --- |
 | [Simple Plot](notebooks/01-Simple_Plot.ipynb) | <img alt="Simple Plot Image" src="images/01-Simple_Plot.png" height="200"> |
+| [Regular Plots](notebooks/02-Regular_Plots.ipynb) | <img alt="Regular Plot Image" src="images/02-Regular_Plots.png" height="200"> |
+| [Scatterplots](notebooks/03-Scatterplots.ipynb) | <img alt="Scatterplot Image" src="images/03-Scatterplots.png" height="200"> |
+| [Bar Chart](notebooks/04-Bar_Charts.ipynb) | <img alt="Bar Chart Image" src="images/04-Bar_Charts.png" height="200"> |
